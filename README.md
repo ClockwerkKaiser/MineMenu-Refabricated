@@ -11,3 +11,7 @@
 **As it has been officially abandoned, I have updated [UltraBlack_'s MineMenuFabric](https://www.curseforge.com/minecraft/mc-mods/minemenufabric) for 1.18.2 and 1.19 as both a personal learning project, and for use in modpacks. I intend to continue updating it in the future. Please report any issues you find. I'll try my best to resolve them. But, understand that I am a total Java newbie.** ~ClockwerkKaiser
 
 MineMenu Refabricated assists you with sending single or multiple chat messages, queuing them, copying text, opening links and even pressing (un)bound keybinds in a simple, yet powerful circular and customizable menu with support for categories.
+
+Thanks to Girafi for the original mod [❤️](https://www.curseforge.com/minecraft/mc-mods/minemenu)  
+Thanks to UltraBlack_ for the initial Fabric port of the MineMenu [❤️](https://www.curseforge.com/members/ultrablack_/projects)  
+Thanks to Mauchin for doing the bulk of the original 1.18 port in
