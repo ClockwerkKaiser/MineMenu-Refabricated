@@ -14,4 +14,4 @@ MineMenu Refabricated assists you with sending single or multiple chat messages,
 
 Thanks to Girafi for the original mod [❤️](https://www.curseforge.com/minecraft/mc-mods/minemenu)  
 Thanks to UltraBlack_ for the initial Fabric port of the MineMenu [❤️](https://www.curseforge.com/members/ultrablack_/projects)  
-Thanks to Mauchin for doing the bulk of the original 1.18 port in
+Thanks to Mauchin for doing the bulk of the original 1.18 port in his fork [❤️](https://github.com/Mauchin)
